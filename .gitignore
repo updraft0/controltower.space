@@ -2,3 +2,6 @@
 /.idea/
 target-idea/
 *.iml
+
+# Zola
+/public/
